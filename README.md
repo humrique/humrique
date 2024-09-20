@@ -75,5 +75,3 @@ Sou **Desenvolvedor Java** com mais de 3 anos de experiência, atualmente me esp
 </div>
 
 ---
-
-![Snake animation](https://github.com/humrique/humrique/blob/output/github-contribution-grid-snake.svg)
