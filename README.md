@@ -38,12 +38,29 @@ Sou **Desenvolvedor Java** com mais de 3 anos de experiência, atualmente me esp
 
 ## 📊 GitHub Stats
 
-<div>
-  <a href="https://github.com/humrique">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=humrique&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humrique&layout=compact&langs_count=7&theme=dark"/>  
-  </a>
-</div>
+
+
+<a href="https://github.com/humrique">
+  <picture>
+  <source
+    height="180em"
+    srcset="https://github-readme-stats.vercel.app/api?username=humrique&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    height="180em"
+    srcset="https://github-readme-stats.vercel.app/api?username=humrique&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=humrique&show_icons=true" />
+</picture>
+</a>
+<a href="https://github.com/humrique">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humrique&layout=compact" />
+</a>
+
+[![HackerRank Badge](https://img.shields.io/badge/HackerRank-humberto__rique-brightgreen?logo=hackerrank&style=for-the-badge)](https://www.hackerrank.com/humberto_rique)
+
 
 ---
 
@@ -51,7 +68,7 @@ Sou **Desenvolvedor Java** com mais de 3 anos de experiência, atualmente me esp
 
 <div>
   <a href="https://www.linkedin.com/in/humberto-rique-50b93118a/" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
 
