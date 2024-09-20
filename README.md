@@ -44,12 +44,12 @@ Sou **Desenvolvedor Java** com mais de 3 anos de experiência, atualmente me esp
   <a href="https://github.com/humrique">
     <picture>
       <source
-        height="170px"
+        height="160px"
         srcset="https://github-readme-stats.vercel.app/api?username=humrique&show_icons=true&theme=dark"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        height="170px"
+        height="160px"
         srcset="https://github-readme-stats.vercel.app/api?username=humrique&show_icons=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
@@ -57,7 +57,7 @@ Sou **Desenvolvedor Java** com mais de 3 anos de experiência, atualmente me esp
     </picture>
   </a>
   <a href="https://github.com/humrique">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humrique&layout=compact" />
+    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humrique&layout=compact" />
   </a>
 </div>
 
