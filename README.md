@@ -40,24 +40,26 @@ Sou **Desenvolvedor Java** com mais de 3 anos de experiência, atualmente me esp
 
 
 
-<a href="https://github.com/humrique">
-  <picture>
-  <source
-    height="180em"
-    srcset="https://github-readme-stats.vercel.app/api?username=humrique&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    height="180em"
-    srcset="https://github-readme-stats.vercel.app/api?username=humrique&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=humrique&show_icons=true" />
-</picture>
-</a>
-<a href="https://github.com/humrique">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humrique&layout=compact" />
-</a>
+<div style="display: flex; justify-content: space-around;">
+  <a href="https://github.com/humrique">
+    <picture>
+      <source
+        height="180em"
+        srcset="https://github-readme-stats.vercel.app/api?username=humrique&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        height="180em"
+        srcset="https://github-readme-stats.vercel.app/api?username=humrique&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=humrique&show_icons=true" />
+    </picture>
+  </a>
+  <a href="https://github.com/humrique">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humrique&layout=compact" />
+  </a>
+</div>
 
 [![HackerRank Badge](https://img.shields.io/badge/HackerRank-humberto__rique-brightgreen?logo=hackerrank&style=for-the-badge)](https://www.hackerrank.com/humberto_rique)
 
