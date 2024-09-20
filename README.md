@@ -40,7 +40,7 @@ Sou **Desenvolvedor Java** com mais de 3 anos de experiência, atualmente me esp
 
 
 
-<div style="display: flex; justify-content: space-around;">
+<div>
   <a href="https://github.com/humrique">
     <picture>
       <source
