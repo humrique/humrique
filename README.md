@@ -2,7 +2,7 @@
 
 **Bem-vindo ao meu perfil GitHub!**
 
-Sou **Desenvolvedor Java** com mais de 3 anos de experiência, atualmente me especializando em **Engenharia de Dados**. Além do código, sou um entusiasta da estratégia, tanto no trabalho quanto no esporte. Sou **faixa preta de Jiu-Jitsu** 🥋 e também gosto de tocar **saxofone** 🎷.
+Sou **Desenvolvedor Java** com mais de 4 anos de experiência. Além do código, sou um entusiasta da estratégia, tanto no trabalho quanto no esporte. Sou **faixa preta de Jiu-Jitsu** 🥋 e também gosto de tocar **saxofone** 🎷.
 
 ---
 
